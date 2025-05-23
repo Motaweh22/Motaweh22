@@ -1,0 +1,77 @@
+<div align="center">
+  <img height="200" width="400" src="https://media1.tenor.com/m/1W9wXhVwJaEAAAAC/isaaca67.gif"/>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/motaweanagi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="113" height="43" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.kaggle.com/motaweamohammed" target="_blank">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" width="90" height="43" alt="kaggle logo"  />
+  </a>
+  <a href="https://www.facebook.com/MotaweaNagi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="113" height="43" alt="facebook logo"  />
+  </a>
+
+</div>
+
+###
+
+<h1 align="center">Welcome, visitor😶‍🌫️</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Motawea Mohammed from Egypt. 🔭<br>- Working as a Data Scientist. 📚 <br>- I'm learning NLP and diving deeper with Large Language Models (LLM). ⚡<br>- In my free time, I enjoy watching anime and exploring new technologies to stay updated in the field of data science.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moatasem75291&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="44" alt="python logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="44" alt="tensorflow logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="44" alt="pytorch logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="44" alt="anaconda logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="44" alt="jupyter logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="44" alt="kaggle logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="docker logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=aws" height="44" alt="amazonwebservices logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=flask" height="44" alt="flask logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="44" alt="fastapi logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=django" height="44" alt="django logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="numpy logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="44" alt="bash logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=github" height="44" alt="github logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="44" alt="git logo"  />
+  <img width="24" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="postman logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="44" alt="stackoverflow logo"  />
+</div>
