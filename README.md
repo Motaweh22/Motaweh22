@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" height="150" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif" /><br>
 🔭 I'm Motawea Mohammed from Egypt <br>
 🌱 I’m currently learning NLP and diving deeper with Large Language Models (LLM)<br>
 💬 Ask me about anything<br>
