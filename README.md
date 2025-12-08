@@ -1,13 +1,6 @@
 # 💫 About Me:
 🔭 I'm Motawea Mohammed from Egypt <br>🌱 I’m currently learning NLP and diving deeper with Large Language Models (LLM)<br>💬 Ask me about anything<br>⚡ World’s greatest hero until the mask slipped (I mean the code ofc)
 
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif"  />
-
-###
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/581495611677999104) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/MotaweaNagi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/motaweanagi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/motaweanagi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MotaweaNagi) 
 
