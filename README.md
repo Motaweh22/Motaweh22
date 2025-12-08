@@ -27,7 +27,11 @@
 
 <h2 align="left">Hi 👋! My name is Motawea and I'm a Machine learning Engineer from .Egypt</h2>
 
+###
 
+<img align="right" height="150" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif"  />
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Motaweh22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
