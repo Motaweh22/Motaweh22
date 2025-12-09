@@ -16,21 +16,29 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450" />
 </div>
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Motaweh22&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Motaweh22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Motaweh22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Motaweh22&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 ### 🔝 Top Contributed Repo
+<div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=Motaweh22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
