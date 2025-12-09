@@ -43,13 +43,14 @@
 
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Motaweh22/Motaweh22/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## GitHub Activity Graph
-
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Motaweh22&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
+</div>
 <div align="center">
   <img height="500" src="https://media1.tenor.com/m/CKYneVIlj5UAAAAC/ssj-goku-dragon-ball.gif"  />
 </div>
