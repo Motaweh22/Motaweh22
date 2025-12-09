@@ -51,9 +51,7 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Motaweh22&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 </div>
-<div align="center">
-  <img height="500" src="https://media1.tenor.com/m/CKYneVIlj5UAAAAC/ssj-goku-dragon-ball.gif"  />
-</div>
+
 
 ## 📈 Detailed Performance Metrics
 
@@ -68,9 +66,17 @@
 
 
 ###
-
+## 👀 Viewer counters
 <div align="center">
   <img src="https://count.getloli.com/@:Motaweh22?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
+
+<div align="center">
+  <img height="500" src="https://media1.tenor.com/m/CKYneVIlj5UAAAAC/ssj-goku-dragon-ball.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75" />
+</div>
