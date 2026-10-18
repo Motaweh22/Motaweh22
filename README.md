@@ -1,14 +1,14 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=140&section=header&text=Motawea%20Nagi&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40" />
+  <br>
+  <a href="https://github.com/Motaweh22">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=520&lines=Building+with+LLMs+%26+RAG;Turning+data+into+decisions;World%27s+greatest+hero+until+the+mask+slipped" alt="Typing animation" />
+  </a>
 </div>
 
 # 💫 About Me:
 
-<div align="center">
-  <img width="40%" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif" />
-</div>
-
-<br>
+<img align="right" width="35%" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif" />
 
 🔭 I'm Motawea Nagi from Egypt <br>
 🧠 AI Engineer, B.Sc. in Data Science (Helwan University) <br>
@@ -17,6 +17,8 @@
 📊 Data Analyst & Business Intelligence at Cairo Metro <br>
 💬 Ask me about anything<br>
 ⚡ World's greatest hero until the mask slipped (I mean the code ofc)<br>
+
+<br clear="both">
 
 ## 🌐 Socials:
 
