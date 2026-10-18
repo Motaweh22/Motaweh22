@@ -46,12 +46,61 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Motaweh22?style=for-the-badge&logo=github&label=Followers)](https://github.com/Motaweh22?tab=followers) [![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMotaweh22&query=%24.following&label=Following&style=for-the-badge&logo=github)](https://github.com/Motaweh22?tab=following) [![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMotaweh22&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github)](https://github.com/Motaweh22?tab=repositories)
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Motaweh22&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=Motaweh22&theme=dark&hide_border=false" /><br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motaweh22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Motaweh22&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+
+</div>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+<img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+<img width="100%" src="https://github-contributor-stats.vercel.app/api?username=Motaweh22&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Motaweh22/Motaweh22/output/snake.svg" alt="Snake animation" />
+</div>
+
+## GitHub Activity Graph
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Motaweh22&radius=16&theme=react&area=true&order=5" alt="activity-graph" />
+</div>
+
+## 📈 Detailed Performance Metrics
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Motaweh22&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Motaweh22&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Motaweh22&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+## 👀 Viewer counter
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Motaweh22?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
 </div>
 
 <div align="center">
