@@ -14,7 +14,6 @@
 🧠 AI Engineer, B.Sc. in Data Science (Helwan University) <br>
 🌱 I'm currently learning NLP and diving deeper with Large Language Models (LLM)<br>
 📄 Built a DocVQA-RAG system that earned top marks and recognition at a Dell Technologies MEA competition <br>
-📊 Data Analyst & Business Intelligence at Cairo Metro <br>
 💬 Ask me about anything<br>
 ⚡ World's greatest hero until the mask slipped (I mean the code ofc)<br>
 
