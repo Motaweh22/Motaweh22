@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=520&lines=Building+with+LLMs+%26+RAG;Turning+data+into+decisions" alt="Typing animation" />
   </a>
 </div>
-
 # 💫 About Me:
 
 <img align="right" width="35%" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif" />
