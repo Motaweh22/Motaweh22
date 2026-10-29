@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25,30&height=140&section=header&text=Motawea%20Nagi&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=40" />
   <br>
   <a href="https://github.com/Motaweh22">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=520&lines=Building+with+LLMs+%26+RAG;Turning+data+into+decisions;World%27s+greatest+hero+until+the+mask+slipped" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=520&lines=Building+with+LLMs+%26+RAG;Turning+data+into+decisions" alt="Typing animation" />
   </a>
 </div>
 
