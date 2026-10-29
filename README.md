@@ -11,7 +11,7 @@
 <img align="right" width="35%" src="https://media1.tenor.com/m/78_zDexc9PcAAAAC/dragon-boll-z-goku-4k-aura.gif" />
 
 🔭 I'm Motawea Nagi from Egypt <br>
-🧠 AI Engineer, B.Sc. in Data Science (Helwan University) <br>
+🧠 AI Engineer, B.Sc. in Artificial intelligence (Helwan University) <br>
 🌱 I'm currently learning NLP and diving deeper with Large Language Models (LLM)<br>
 💬 Ask me about anything<br>
 ⚡ World's greatest hero until the mask slipped (I mean the code ofc)<br>
